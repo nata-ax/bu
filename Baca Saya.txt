@@ -1,0 +1,2 @@
+1. Lihat gambar nya dulu.
+2. Untuk setiap pembuatan table selalu tambahkan primary key dan Auto increment lihat gambar.
